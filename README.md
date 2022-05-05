@@ -1,1 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" src="./assets/Profile.png" /></a></p>
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/Aayush_Banner.png "Header")]
+
+<h1> Hello </h1>
