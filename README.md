@@ -15,6 +15,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/aayushshuk1a/"><img width="32px" alt="Dev.to" title="Instagram" src="https://png.pngtree.com/png-clipart/20201208/original/pngtree-instagram-icon-with-gradient-pink-color-and-papercut-style-png-image_5520551.jpg"></a>
+  <a href="https://www.instagram.com/aayushshuk1a/"><img width="32px" alt="Dev.to" title="Instagram" src="./assests/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/aayush5emaQ"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
