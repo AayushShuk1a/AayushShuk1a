@@ -18,3 +18,14 @@
   <a href="https://www.instagram.com/aayushshuk1a/"><img width="32px" alt="Dev.to" title="Instagram" src="./assests/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/aayush5emaQ"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  
+<h1>🤷‍♂️Who am I?</h1>
+  
+  <p align="center">I am a 2nd-year Graduate Student at Lovely Professional University, pursuing Bachelors in Computer Science, who is passionate about Full Stack Web Development 🌐,App Development 📱, DevOps, and open source. I love to learn and contribute in any and every possible way.
+</p>
+
+<p align="center">When I'm not developing and coding,you can find me jamming to spotify. </p>
+
+<div align="center"><br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31dnnc5zawniwawsbzittgeb3vri) <br></div>
