@@ -28,4 +28,6 @@
 
 <div align="center"><br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31dnnc5zawniwawsbzittgeb3vri) <br></div>
+[![Spotify](https://novatorem-seven-green.vercel.app/api/spotify)](https://open.spotify.com/user/31dnnc5zawniwawsbzittgeb3vri)
+
+</div>
