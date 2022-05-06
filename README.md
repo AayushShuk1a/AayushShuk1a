@@ -31,3 +31,35 @@
 [![Spotify](https://novatorem-seven-green.vercel.app/api/spotify)](https://open.spotify.com/user/31dnnc5zawniwawsbzittgeb3vri)
 
 </div>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const Aayush = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "React", "C++", "Python"],
+  askMeAbout: ["Web Dev", "DevOps", "Anime", "Music", "Open Source"],
+  technologies: {
+    backEnd: {
+      js: ["Node", "Express"],
+    },
+    mobileApp: {
+      native: ["React Native"],
+    },
+    devOps: ["AWS", "Docker"],
+    databases: ["mongoDb", "MySql", "Azure"],
+    misc: ["Firebase", "Socket.IO", , "open-cv"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus:
+    "Getting my hands dirty with DevOps and focusing on Data structure and Algorithms",
+  funFact:
+    "Science tells us that programmers who listen to music while they code might actually have an edge over their colleagues.",
+};
+```
+
+---
