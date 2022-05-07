@@ -80,6 +80,15 @@ const Aayush = {
 
 <br/>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%#141321&theme=radical&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%#141321&theme=radical&textColor=%2306d6a0&aColor=%23ff69b4&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 </div>
+
+<br>
+<h1> Connect with me </h1>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/chandan_1307?label=Follow)](https://twitter.com/intent/follow?screen_name=AayushShuk1a)
+[![Linkedin: Chandan](https://img.shields.io/badge/-Aayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandan-kumar-899842196/)](https://www.linkedin.com/in/aayush-shukla-4390a119b/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://chandankumarsaha.netlify.app//)](https://aayush-portfolio.netlify.app/)
+
+<br />
