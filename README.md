@@ -70,10 +70,13 @@ const Aayush = {
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShuk1a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AayushShuk1a&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AayushShuk1a&color=ff69b4)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AayushShuk1a&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br/>
+
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%#141321&textColor=%23fff&aColor=%23fd428d&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 </div>
