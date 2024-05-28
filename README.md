@@ -39,11 +39,11 @@
 ```javascript
 const Aayush = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "React", "C++", "Python"],
-  askMeAbout: ["Web Dev", "DevOps", "Anime", "Music", "Open Source"],
+  code: ["Java", "Javascript", "React", "C++", "Python"],
+  askMeAbout: ["Full-Stack", "DevOps", "Anime", "Music", "Open Source"],
   technologies: {
     backEnd: {
-      js: ["Node", "Express"],
+      js: ["Node", "Express", "SpringBoot],
     },
     mobileApp: {
       native: ["React Native"],
