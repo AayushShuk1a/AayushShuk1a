@@ -43,7 +43,7 @@ const Aayush = {
   askMeAbout: ["Full-Stack", "DevOps", "Anime", "Music", "Open Source"],
   technologies: {
     backEnd: {
-      js: ["Node", "Express", "SpringBoot],
+      js: ["Node", "Express", "SpringBoot"]
     },
     mobileApp: {
       native: ["React Native"],
