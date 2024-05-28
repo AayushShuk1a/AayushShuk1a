@@ -40,7 +40,7 @@
 const Aayush = {
   pronouns: "He" | "Him",
   code: ["Java", "Javascript", "React", "C++", "Python"],
-  askMeAbout: ["Full-Stack", "DevOps", "Anime", "Music", "Open Source"],
+  askMeAbout: ["Full-Stack", "DSA", "DevOps", "Anime", "Music", "Open Source"],
   technologies: {
     backEnd: {
       js: ["Node", "Express", "SpringBoot"]
