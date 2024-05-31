@@ -42,10 +42,12 @@ const Aayush = {
   code: ["Java", "Javascript", "React", "C++", "Python"],
   askMeAbout: ["Full-Stack", "DSA", "DevOps", "Anime", "Music", "Open Source"],
   technologies: {
+    frontEnd: {
+      markupStyling: ["HTML", "CSS"],
+      js: ["React", "Redux"]
     backEnd: {
       js: ["Node", "Express"],
-      Java: ["Spring Boot", "Hibernate"]
-
+      Java: ["Spring Boot", "Hibernate", "Thymeleaf"]
     },
     mobileApp: {
       native: ["React Native"],
